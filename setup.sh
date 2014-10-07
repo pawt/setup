@@ -47,3 +47,6 @@ ln -sb dotfiles/.bashrc .
 ln -sb dotfiles/.bashrc_custom .
 ln -sf dotfiles/.emacs.d .
 
+cd bitstarter
+git config --global user.name "pawt"
+git config --global user.email "pawt87@gmail.com"
